@@ -76,7 +76,7 @@ $RECYCLE.BIN/
 Certification/
 
 # secrets.h
-./ESP32_AWS_IoT_Tutorial/secrets.h
-./ESP32_AWS_IoT_Button/basic_pubsub/secrets.h
+02.ESP32_AWS_IoT_Tutorial/secrets.h
+03.ESP32_AWS_IoT_Button/basic_pubsub/secrets.h
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos
