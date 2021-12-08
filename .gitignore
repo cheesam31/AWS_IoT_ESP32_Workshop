@@ -78,5 +78,6 @@ Certification/
 # secrets.h
 02.ESP32_AWS_IoT_Tutorial/secrets.h
 03.ESP32_AWS_IoT_Button/basic_pubsub/secrets.h
+04.ESP32_AWS_IoT_Lamp/esp32_iot_lamp/secrets.h
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos
